@@ -1,0 +1,21 @@
+
+D
+java:S3740""/Provide the parametrized type for this generic.(› Ýy
+Q
+java:S3740Y"/Provide the parametrized type for this generic.(æ´“Ýøÿÿÿÿ8º®¢ºÆ1
+Q
+java:S3740w"/Provide the parametrized type for this generic.(æ´“Ýøÿÿÿÿ8º®¢ºÆ1
+}
+java:S1104#"bMake HEART_RATE_MEASUREMENT a static final constant or non-public and provide accessors if needed.(µÑ¸Ìúÿÿÿÿ
+ƒ
+java:S1104$"hMake CLIENT_CHARACTERISTIC_CONFIG a static final constant or non-public and provide accessors if needed.(î®Æƒÿÿÿÿÿ
+W
+java:S1444#"<Make this "public static HEART_RATE_MEASUREMENT" field final(µÑ¸Ìúÿÿÿÿ
+]
+java:S1444$"BMake this "public static CLIENT_CHARACTERISTIC_CONFIG" field final(î®Æƒÿÿÿÿÿ
+|
+java:S3008#"aRename this field "HEART_RATE_MEASUREMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÑ¸Ìúÿÿÿÿ
+‚
+java:S3008$"gRename this field "CLIENT_CHARACTERISTIC_CONFIG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î®Æƒÿÿÿÿÿ
+P
+java:S1118!":Add a private constructor to hide the implicit public one.(—‡Ú½

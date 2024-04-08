@@ -1,0 +1,24 @@
+
+›
+java:S1192"SUse already-defined constant 'LOG_FILE_NAME' instead of duplicating its value here.(‹ÀÌ„øÿÿÿÿ8ÊÚßşÛ1J$9f94cb06-a58f-4d1c-8c81-e57dad2f02de
+w
+java:S1066b"/Merge this if statement with the enclosing one.(Œ™ışÿÿÿÿ8ÊÚßşÛ1J$195b278e-7d7c-4c7c-8200-9975ee9a3d15
+š
+java:S1104"RMake logger a static final constant or non-public and provide accessors if needed.(Æ¾ÅŸÿÿÿÿÿ8ËÚßşÛ1J$20fe6764-e1f9-4346-b160-8b0ca41af6ec
+t
+java:S1444",Make this "public static logger" field final(Æ¾ÅŸÿÿÿÿÿ8ËÚßşÛ1J$15cbd637-d33f-4b9e-af42-56ace5e0e366
+”
+java:S2095Q"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ÕÖÎÁûÿÿÿÿ8çÚßşÛ1J$45b3814e-6552-46e7-9217-ae0ef02a81ba
+}
+java:S1118":Add a private constructor to hide the implicit public one.(úÉ„ä8çÚßşÛ1J$4b7e8325-d1e9-4501-a043-25760044a530
+v
+java:S1172 ".Remove this unused method parameter "context".(µ¤–™ùÿÿÿÿ8ôÚßşÛ1J$095c7079-0b89-461d-9832-1a2628bed1e7
+~	java:S125!"<This block of commented-out lines of code should be removed.(½‘Ñ³8ôÚßşÛ1J$2fbfde70-cac7-431a-9f0c-24ffe43d9bf6
+‰	java:S899G"BDo something with the "boolean" value returned by "createNewFile".(´¸ö×şÿÿÿÿ8ûÚßşÛ1J$44d21695-4015-4c2e-87ec-ceb63a35ac15
+z
+java:S1135J"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ûÚßşÛ1J$8f74786f-1cdf-4e05-b055-e9b8afafd5a0
+~	java:S125T"<This block of commented-out lines of code should be removed.(î±–ş8ıÚßşÛ1J$60dc3439-e7ab-43e4-b872-f873d30217dc
+z
+java:S1135Y"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ıÚßşÛ1J$96d9aac2-e524-4ba3-a5f5-a683ef7c3c9d
+w
+java:S1144_"/Remove this unused private "getLogFile" method.(¥—ÿ’øÿÿÿÿ8ÛßşÛ1J$fe75810f-3d74-4145-b119-f4127e43d3a2

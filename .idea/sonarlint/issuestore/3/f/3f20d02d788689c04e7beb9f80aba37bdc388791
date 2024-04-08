@@ -1,0 +1,73 @@
+
+¡
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(òŸëÿÿÿÿÿ8Ç¨ÄŠÛ1J$76209e21-cab2-4fb5-b57e-697f54a4daa3
+¢
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÏÆ‰ıÿÿÿÿ8È¨ÄŠÛ1J$af326319-16e4-4e32-9d5c-3530d82e5627
+
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÊó§8È¨ÄŠÛ1J$048a86a7-991e-4339-9256-a7a770189fcd
+
+java:S2293Ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı˜¡µ8È¨ÄŠÛ1J$06e4126b-bee3-4169-a5e4-559a760d9e4a
+
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Şï¥8É¨ÄŠÛ1J$bcdc4d4a-8fef-4bbd-a349-afddb665abfb
+¢
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(å¤ÿÿÿÿÿ8É¨ÄŠÛ1J$5e67115b-0eab-4187-b66b-3673d51e2639
+
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ®ñƒ8É¨ÄŠÛ1J$d770b228-3c21-4a0e-bf70-015eda696bbd
+¢
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ü«úøÿÿÿÿ8É¨ÄŠÛ1J$df856146-04b6-4deb-98bc-cae4489b142b
+x
+java:S1066”"/Merge this if statement with the enclosing one.(Õ· ûÿÿÿÿ8É¨ÄŠÛ1J$fa25c035-d971-4627-a621-d934ec2be426
+q
+java:S1604¬"(Make this anonymous inner class a lambda(¾Éæïùÿÿÿÿ8Ê¨ÄŠÛ1J$5adeb1c6-e987-499c-b3ab-e9ab84bbb572
+l
+java:S1604¸"(Make this anonymous inner class a lambda(´æº8Ê¨ÄŠÛ1J$76fc5e8e-5b74-4a83-b05d-f1d25e7bc564
+q
+java:S1604‰"(Make this anonymous inner class a lambda(‚Ü‰Èıÿÿÿÿ8Ê¨ÄŠÛ1J$064e7eea-8b06-4e30-9640-dab4d24d2a69
+l
+java:S1604è"(Make this anonymous inner class a lambda(„ÑñŒ8Ê¨ÄŠÛ1J$afbbee01-4f64-4033-8bb8-5d80a898bff1
+q
+java:S1604¼"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ8Ê¨ÄŠÛ1J$59b354d2-d836-4351-800b-e2925772070e
+–	java:S116K"TRename this field "LIST_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¿ò8½©ÄŠÛ1J$8c395f2b-fd6f-445d-96a9-f4c0ce3bfbaa
+–	java:S116L"TRename this field "LIST_UUID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÓ·Ò8½©ÄŠÛ1J$b8d16b3d-c226-4e76-8a8c-1b762b7f949b
+d
+java:S1170K"!Make this final field static too.(ğ¿ò8Ç©ÄŠÛ1J$dfa5964a-073c-49c8-8f3f-ac7497fbda9f
+d
+java:S1170L"!Make this final field static too.(âÓ·Ò8Ç©ÄŠÛ1J$a43c0b93-7e24-40fa-8be9-41c2487ce442
+Å
+java:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºÄ¿¤8Ç©ÄŠÛ1J$b70ebf83-d06e-43b6-8fa0-b4ec22d0508f
+¢
+java:S1450B"ZRemove the "mDeviceName" field and declare it as a local variable in the relevant methods.(ÑÀ£¿úÿÿÿÿ8Ç©ÄŠÛ1J$411b5183-b72d-47e8-a4c7-d6ceaa14eec2
+ˆ
+java:S1124;"EReorder the modifiers to comply with the Java Language Specification.(ÒâäÕ8Ñ©ÄŠÛ1J$52aec7e3-59b4-465b-a783-eb3407231c21
+~	java:S125Z"<This block of commented-out lines of code should be removed.(ğùÇ8Ü©ÄŠÛ1J$2564d503-cd58-4953-b4f7-02ada691a8e6
+„	java:S125™"<This block of commented-out lines of code should be removed.(ÛÒÕÈşÿÿÿÿ8î©ÄŠÛ1J$d570869b-f54b-4739-9aa4-60d2dae56091
+„	java:S125¨"<This block of commented-out lines of code should be removed.(÷š¶Ğşÿÿÿÿ8ğ©ÄŠÛ1J$79e6489c-6f59-44fb-bde0-e12ff5e31191
+q	java:S108À")Either remove or fill this block of code.(·É­øüÿÿÿÿ8ú©ÄŠÛ1J$e10fd138-9f34-4686-8d26-5bba9220c1a3
+l	java:S108Ã")Either remove or fill this block of code.(¬ÍÛı8ú©ÄŠÛ1J$cbab6223-daf3-4747-8dd2-ad54c024dc9b
+k	java:S108Æ")Either remove or fill this block of code.(õ´Z8ú©ÄŠÛ1J$df8a9161-d0c2-40d8-a4f3-648379fd0b10
+	java:S115Ğ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µ·…‘8ú©ÄŠÛ1J$c16f39e4-f804-49cb-aaae-8a34ce35578d
+œ	java:S115Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ú¿ñw8ú©ÄŠÛ1J$6e1aa246-5d28-43cf-843f-39610bde8c68
+¢	java:S115Ò"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åøå§şÿÿÿÿ8ú©ÄŠÛ1J$6be7cbc9-0ffc-4a04-a551-bef4de1ff6ea
+œ	java:S115Ó"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓÓµ8ú©ÄŠÛ1J$108792df-7c83-41f9-8f70-ea2102e23d15
+	java:S115Ô"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(è£Â¤8ú©ÄŠÛ1J$9d05a6c4-c08a-4179-b2a6-f8f135ac5f1c
+ƒ
+java:S3985Ï":Remove this unused private "CharacteristicProperty" class.(Š“âˆøÿÿÿÿ8ú©ÄŠÛ1J$eef2fdd0-2062-4999-a7a9-b29fc4a024e3
+„	java:S125×"<This block of commented-out lines of code should be removed.(öÃÜğüÿÿÿÿ8ú©ÄŠÛ1J$2245c3d3-5233-4c50-87c0-02d245bab0df
+y
+java:S1172ß"5Remove this unused method parameter "characteristic".(ºÄ¿¤8ú©ÄŠÛ1J$b2fedf03-5b98-4e03-a385-51b437429c7e
+s
+java:S1874è"/Remove this use of "Handler"; it is deprecated.(„ÑñŒ8ú©ÄŠÛ1J$b79e3654-4c31-4e7c-9675-efb362a7a233
+Š
+java:S1854Ò"FRemove this useless assignment to local variable "unknownCharaString".(æµúô8¡ªÄŠÛ1J$e0b3fe94-9256-430c-97b3-42a751e4966c
+{
+java:S1481Ò"7Remove this unused "unknownCharaString" local variable.(æµúô8£ªÄŠÛ1J$d42e62e6-d6fd-43a5-b570-9c4d2a7e4e99
+ˆ
+java:S3398Í"?Move this method into the anonymous class declared at line 106.(áËÜÌıÿÿÿÿ8­ªÄŠÛ1J$376363cf-1ee8-4134-82bc-92c3e28de65f
+ƒ
+java:S3398ã"?Move this method into the anonymous class declared at line 106.(ÉğËï8­ªÄŠÛ1J$4d3c5b48-2932-4a6b-87cb-d98a703a720d
+ˆ
+java:S3398Ä"?Move this method into the anonymous class declared at line 106.(ó¶£úÿÿÿÿ8­ªÄŠÛ1J$1da4959e-5bcd-449a-ab8c-eed569b844c1
+ƒ
+java:S3398»"?Move this method into the anonymous class declared at line 106.(»®ë8­ªÄŠÛ1J$0b31e911-cfea-4582-bd7c-d188e47f3c0e
+‚
+java:S1144ß">Remove this unused private "showCharacteristicOptions" method.(ºÄ¿¤8­ªÄŠÛ1J$4b314d66-aa46-4cc7-b774-c0e2d1062135

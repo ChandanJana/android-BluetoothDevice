@@ -1,0 +1,63 @@
+
+œ
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(…óœÎ8ĞÑª©Ş1J$835d38c1-c03e-469f-aafc-b07c82fae049
+x
+java:S1066Æ"/Merge this if statement with the enclosing one.(ÎóÙôøÿÿÿÿ8ÒÑª©Ş1J$5bb0f420-9fec-41d4-bcd5-1dbbd98c8a33
+x
+java:S1066ì"/Merge this if statement with the enclosing one.(œƒÌşÿÿÿÿ8ÒÑª©Ş1J$9f7e3b36-500e-482f-b5d9-8c084a516c25
+™	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü›ÂÛúÿÿÿÿ8ÒÑª©Ş1J$513cbd3c-9841-496c-99d5-5cdbbe5b4128
+™	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©œÿÔıÿÿÿÿ8ÒÑª©Ş1J$cac3619f-82e4-48ea-9488-29b87542697e
+™	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›şÁöùÿÿÿÿ8ÒÑª©Ş1J$13329a12-f72a-403a-bbc6-63c1ead5353e
+™	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôôÌ¾úÿÿÿÿ8ÒÑª©Ş1J$e5e2c64f-3672-4a65-8f35-91c600ed4f66
+l
+java:S1604›"(Make this anonymous inner class a lambda(ó÷‘õ8ÔÑª©Ş1J$7b285693-f75e-4fe2-b9fe-07a50b87377b
+k
+java:S1604¦"(Make this anonymous inner class a lambda(°´¶S8ÔÑª©Ş1J$dc913910-52c4-494d-bd0e-5ff7d1578e14
+l
+java:S1604Š"(Make this anonymous inner class a lambda(†£°î8ÔÑª©Ş1J$9a544b27-7d88-4a93-b523-183234c0575f
+©	java:S116K"bRename this field "REQUEST_PERMISSION_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ú‚ßûÿÿÿÿ8úÓª©Ş1J$adb07df9-8def-4b69-8519-5c74cafc5b7f
+£	java:S116L"\Rename this field "REQUEST_ENABLE_BT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Øçûÿÿÿÿ8úÓª©Ş1J$617f0028-a39f-4d03-bcc3-524602842e5a
+¢	java:S116M"`Rename this field "REQUEST_FINE_LOCATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯›Ç 8ûÓª©Ş1J$56579b90-962a-40d4-830c-d055bca22b4a
+Ÿ
+java:S3008\"WRename this field "SERVICE_UUID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·á¨†ÿÿÿÿÿ8ûÓª©Ş1J$e27a79aa-c8e5-45b8-8909-19adef0c88c2
+i
+java:S1170K"!Make this final field static too.(…ú‚ßûÿÿÿÿ8†Ôª©Ş1J$56b3b883-e1e4-4e73-9ca7-b3a70a3b9abb
+i
+java:S1170L"!Make this final field static too.(°Øçûÿÿÿÿ8‡Ôª©Ş1J$7b42a3c4-3e21-4f57-a6c7-85762bef36ae
+d
+java:S1170M"!Make this final field static too.(¯›Ç 8‡Ôª©Ş1J$b979fc48-e9a9-4fee-84b7-1e06a996eac8
+
+java:S1659:"HDeclare "logTextView" and all following declarations on a separate line.(á‹¡‹ıÿÿÿÿ8‹Ôª©Ş1J$6623f143-d51c-46e8-9313-7e5273281077
+˜
+java:S1659<"PDeclare "startScanningButton" and all following declarations on a separate line.(¦¥ˆÙÿÿÿÿÿ8–Ôª©Ş1J$ef2df016-7947-463c-869f-f4fdd7a1b29f
+š
+java:S1450?"WRemove the "idSwitch" field and declare it as a local variable in the relevant methods.(¾«ß¾8˜Ôª©Ş1J$059b7985-b2c4-4977-ae5c-b240ea0f621b
+
+java:S1450>"[Remove the "recyclerview" field and declare it as a local variable in the relevant methods.(ß çœ8˜Ôª©Ş1J$b52aece1-8349-45cc-9dd1-d2a7a6031371
+	java:S125‚"<This block of commented-out lines of code should be removed.(ó™ÿõ8¹Ôª©Ş1J$8c341a1d-63d4-4e83-8bd2-338ef5841c06
+„	java:S125ˆ"<This block of commented-out lines of code should be removed.(ŠÒ¯Áøÿÿÿÿ8ºÔª©Ş1J$ca4c138b-da34-4775-b173-8932273c5aa4
+	java:S125«"<This block of commented-out lines of code should be removed.(ŸµË–8ÍÔª©Ş1J$10f6f8ed-814d-4770-a443-ff773996c671
+s
+java:S1874õ"/Remove this use of "Handler"; it is deprecated.(õÊëì8÷Ôª©Ş1J$3542e128-9226-4c1d-9f72-853c0a346d80
+	java:S125"<This block of commented-out lines of code should be removed.(Ë¹Ä¥8†Õª©Ş1J$d5bddcfc-4582-4064-8cf4-229bdf58a962
+„	java:S125‘"<This block of commented-out lines of code should be removed.(´Æ³¸üÿÿÿÿ8†Õª©Ş1J$e9cd5250-7bb3-4c3f-82f1-07cbd301c1a3
+	java:S125™"<This block of commented-out lines of code should be removed.(á¤»œ8ˆÕª©Ş1J$f8062b0b-c7b4-4339-bc99-015f92523990
+„	java:S125°"<This block of commented-out lines of code should be removed.(ßÙ€øÿÿÿÿ8û­¨éë1J$9b0c8fb2-3279-411b-b895-09fc08ac90c7
+	java:S125¹"<This block of commented-out lines of code should be removed.(Ë¹Ä¥8–Õª©Ş1J$d4ee2aa3-696f-4870-a2e6-9b7d57745aaa
+	java:S125Ì"<This block of commented-out lines of code should be removed.(ÌÌÅ8¢Õª©Ş1J$b8411fbb-dc74-4548-9165-ba2daddd0d2f
+„	java:S125Õ"<This block of commented-out lines of code should be removed.(ø£Œ€úÿÿÿÿ8¥Õª©Ş1J$25c92b14-27c0-4c7f-9446-7b9d203a17a8
+~	java:S125Ù"<This block of commented-out lines of code should be removed.(¹Î¾8§Õª©Ş1J$eb04d84d-c08a-4854-9481-c3ccb16da4ed
+„	java:S125è"<This block of commented-out lines of code should be removed.(şğ—°ûÿÿÿÿ8¨Õª©Ş1J$a0368041-41f2-4510-b415-e1e4a7f953dd
+	java:S125ê"<This block of commented-out lines of code should be removed.(†şªİ8©Õª©Ş1J$a5aa0375-2e83-48bf-bbbd-cf0aac987c31
+„	java:S125ö"<This block of commented-out lines of code should be removed.(Ú…Ëûÿÿÿÿÿ8®Õª©Ş1J$39d2a5c4-08a1-4003-8ac6-4a3bae8fa8bd
+„	java:S125ø"<This block of commented-out lines of code should be removed.(úÈá¨ıÿÿÿÿ8¯Õª©Ş1J$fb89806f-fb28-459c-85cf-c0dfe14361f9
+{
+java:S1068:"3Remove this unused "txtDeviceStatus" private field.(á‹¡‹ıÿÿÿÿ8ÅÕª©Ş1J$f739c717-9375-4afc-8345-b03c17f268a4
+w
+java:S1068:"/Remove this unused "logTextView" private field.(á‹¡‹ıÿÿÿÿ8ÅÕª©Ş1J$e7f0679e-3b5c-42d0-8d27-46c90b5b688a
+y
+java:S1068;"1Remove this unused "logScrollView" private field.(óí¢§øÿÿÿÿ8ÅÕª©Ş1J$bb37bd2f-c17a-4dca-af53-89c99349af1e
+|
+java:S1068<"4Remove this unused "disconnectButton" private field.(¦¥ˆÙÿÿÿÿÿ8ÅÕª©Ş1J$3a3ebd5e-3ee3-4dea-8dfe-679fb8cd1b11
+t
+java:S1068<",Remove this unused "clearLog" private field.(¦¥ˆÙÿÿÿÿÿ8ÆÕª©Ş1J$bb55d0fc-bf91-479e-beb9-08b43e008072

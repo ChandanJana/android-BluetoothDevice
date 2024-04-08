@@ -1,0 +1,12 @@
+
+>
+java:S1604:"(Make this anonymous inner class a lambda(íèÄ
+j
+java:S2259\"HA "NullPointerException" could be thrown; "scanResult" is nullable here.(»ï Îüÿÿÿÿ8ı²Æ1
+Q	java:S1258"<This block of commented-out lines of code should be removed.(Ê°ÃÀ
+_
+java:S1854N"BRemove this useless assignment to local variable "timestampNanos".(™·¦8œ²Æ1
+_
+java:S1854Q"BRemove this useless assignment to local variable "timestampNanos".(õÿÂÔ8œ²Æ1
+P
+java:S1481K"3Remove this unused "timestampNanos" local variable.(–±·¨8œ²Æ1

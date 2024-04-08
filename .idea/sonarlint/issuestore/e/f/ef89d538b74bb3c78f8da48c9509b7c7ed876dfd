@@ -1,0 +1,211 @@
+
+Q
+java:S3740E"/Provide the parametrized type for this generic.(ñ²µşÿÿÿÿ8şíß¿×1
+˜
+java:S1192ß"uDefine a constant instead of duplicating this literal "ERROR: Could not enqueue read characteristic command" 5 times.(í ‹Úüÿÿÿÿ8şíß¿×1
+M
+java:S1066€"/Merge this if statement with the enclosing one.(ŸÔœ8şíß¿×1
+F
+java:S1604„"(Make this anonymous inner class a lambda(„¼›õ8îß¿×1
+F
+java:S1604Î"(Make this anonymous inner class a lambda(ş²ìƒ8îß¿×1
+F
+java:S1604ô"(Make this anonymous inner class a lambda(ş²ìƒ8îß¿×1
+F
+java:S1604í"(Make this anonymous inner class a lambda(ş²ìƒ8îß¿×1
+F
+java:S1604•"(Make this anonymous inner class a lambda(ş²ìƒ8îß¿×1
+F
+java:S1604×"(Make this anonymous inner class a lambda(ş²ìƒ8îß¿×1
+K
+java:S5411í"(Use a primitive boolean expression here.(¬èÙÏûÿÿÿÿ8îß¿×1
+K
+java:S5411´"(Use a primitive boolean expression here.(©¨Íêùÿÿÿÿ8îß¿×1
+K
+java:S5411´"(Use a primitive boolean expression here.(©¨Íêùÿÿÿÿ8îß¿×1
+K
+java:S5411Å"(Use a primitive boolean expression here.(©¨Íêùÿÿÿÿ8îß¿×1
+K
+java:S5411î"(Use a primitive boolean expression here.(©¨Íêùÿÿÿÿ8îß¿×1
+a
+java:S2583ñ"CChange this condition so that it does not always evaluate to "true"(É¶åÍ8¾öß¿×1
+{	java:S115R"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(øÁ½¸ûÿÿÿÿ8Åöß¿×1
+x
+java:S3008)"VRename this field "CLIENT_UUID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¿íÕúÿÿÿÿ8Åöß¿×1
+x
+java:S3008,"[Rename this field "service_uuid_str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â´Ù8Æöß¿×1
+|
+java:S3008-"ZRename this field "mac_address_str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÌÒëúÿÿÿÿ8Æöß¿×1
+t
+java:S3008."WRename this field "scan_timeout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÖ¢’8Æöß¿×1
+y
+java:S1450;"WRemove the "mHandler" field and declare it as a local variable in the relevant methods.(ÒÁíåÿÿÿÿÿ8Óöß¿×1
+€
+java:S1450-"^Remove the "mac_address_str" field and declare it as a local variable in the relevant methods.(ıÌÒëúÿÿÿÿ8Ôöß¿×1
+@
+java:S1118Ğ"Hide this public constructor.(©ËÒ‡øÿÿÿÿ8èöß¿×1
+;
+java:S1118Ó"Hide this public constructor.(Ø†éú8èöß¿×1
+2
+java:S2275y"Not enough arguments.(í¼”—8Œ÷ß¿×1
+a
+java:S1155€">Use isEmpty() to check whether the collection is empty or not.(ÈäèËùÿÿÿÿ8÷ß¿×1
+8
+java:S2275Š"Not enough arguments.(ˆ¬Ûàşÿÿÿÿ8•÷ß¿×1
+K
+java:S3010Ú"-Remove this assignment of "bluetoothManager".(÷È¸‰8³÷ß¿×1
+K
+java:S3010Ş"-Remove this assignment of "bluetoothAdapter".(ü®ª—8³÷ß¿×1
+H	java:S106Õ"+Replace this use of System.out by a logger.(…¢°Ù8µ÷ß¿×1
+M	java:S106á"+Replace this use of System.out by a logger.(òáñûÿÿÿÿ8¹÷ß¿×1
+M	java:S106ç"+Replace this use of System.out by a logger.(ŞÏÍ¾üÿÿÿÿ8½÷ß¿×1
+G	java:S106í"+Replace this use of System.out by a logger.(ş—á+8¿÷ß¿×1
+H	java:S106ó"+Replace this use of System.out by a logger.(¯ú…ò8Á÷ß¿×1
+M	java:S106ø"+Replace this use of System.out by a logger.(å€Ğíşÿÿÿÿ8Á÷ß¿×1
+H	java:S106ş"+Replace this use of System.out by a logger.(¯ú…ò8Ã÷ß¿×1
+H	java:S106‹"+Replace this use of System.out by a logger.(Ï‹Ÿ¯8Ä÷ß¿×1
+G	java:S106"+Replace this use of System.out by a logger.(ìÆŠ8Å÷ß¿×1
+H	java:S106”"+Replace this use of System.out by a logger.(«‰ı8Æ÷ß¿×1
+M	java:S106¸"+Replace this use of System.out by a logger.(·äĞ©øÿÿÿÿ8Ğ÷ß¿×1
+Y	java:S125¼"<This block of commented-out lines of code should be removed.(Ÿë‘ğ8Ñ÷ß¿×1
+H	java:S106Ò"+Replace this use of System.out by a logger.(Î¤²ë8Ø÷ß¿×1
+M	java:S106à"+Replace this use of System.out by a logger.(çÏ¡­ıÿÿÿÿ8Û÷ß¿×1
+Y	java:S125Ş"<This block of commented-out lines of code should be removed.(ñ¨è’8Ü÷ß¿×1
+M	java:S106á"+Replace this use of System.out by a logger.(èô»âÿÿÿÿÿ8Ş÷ß¿×1
+H	java:S106â"+Replace this use of System.out by a logger.(˜Ş­·8Ş÷ß¿×1
+H	java:S106ã"+Replace this use of System.out by a logger.(×›É8ß÷ß¿×1
+M	java:S106ä"+Replace this use of System.out by a logger.(Ÿõ•«ıÿÿÿÿ8ß÷ß¿×1
+^	java:S125õ"<This block of commented-out lines of code should be removed.(£“‘âûÿÿÿÿ8ã÷ß¿×1
+M	java:S106ü"+Replace this use of System.out by a logger.(ßòŸŠûÿÿÿÿ8æ÷ß¿×1
+H	java:S106"+Replace this use of System.out by a logger.(…Ûİ®8ç÷ß¿×1
+T
+java:S2696‚"6Make the enclosing method "static" or remove this set.(áºİú8é÷ß¿×1
+M	java:S106"+Replace this use of System.out by a logger.(Ë¦éöşÿÿÿÿ8é÷ß¿×1
+M	java:S106”"+Replace this use of System.out by a logger.(‘üÏßıÿÿÿÿ8é÷ß¿×1
+M	java:S106"+Replace this use of System.out by a logger.(áµ”øÿÿÿÿ8é÷ß¿×1
+H	java:S106¡"+Replace this use of System.out by a logger.(³Şä¥8ñ÷ß¿×1
+T
+java:S1172«"1Remove this unused method parameter "macAddress".(ª…üæşÿÿÿÿ8ş÷ß¿×1
+H	java:S106¸"+Replace this use of System.out by a logger.(¨½ÎÏ8†øß¿×1
+H	java:S106¹"+Replace this use of System.out by a logger.(ŸªòË8øß¿×1
+M	java:S106º"+Replace this use of System.out by a logger.(º±Şüÿÿÿÿ8øß¿×1
+H	java:S106½"+Replace this use of System.out by a logger.(ÅÔÂş8’øß¿×1
+M	java:S106Â"+Replace this use of System.out by a logger.(ÿÈòùüÿÿÿÿ8’øß¿×1
+N
+java:S1874Ë"0Remove this use of "setValue"; it is deprecated.(ÀÜÃ˜8’øß¿×1
+X
+java:S1874Ò";Remove this use of "writeCharacteristic"; it is deprecated.(ºİ±28™øß¿×1
+M	java:S106Ó"+Replace this use of System.out by a logger.(áÈÒõúÿÿÿÿ8šøß¿×1
+M	java:S106Ö"+Replace this use of System.out by a logger.(•Ú´Ñøÿÿÿÿ8›øß¿×1
+Y	java:S125â"<This block of commented-out lines of code should be removed.(«ş™è8øß¿×1
+M	java:S106ğ"+Replace this use of System.out by a logger.(øÖŸØøÿÿÿÿ8§øß¿×1
+Y
+java:S2696ó"6Make the enclosing method "static" or remove this set.(–£ÇÃşÿÿÿÿ8§øß¿×1
+M	java:S106ø"+Replace this use of System.out by a logger.(ŠŸ–Æúÿÿÿÿ8­øß¿×1
+H	java:S106û"+Replace this use of System.out by a logger.(ÜÈñ§8®øß¿×1
+Y
+java:S2696ü"6Make the enclosing method "static" or remove this set.(ñüŒøÿÿÿÿ8®øß¿×1
+H	java:S106ˆ"+Replace this use of System.out by a logger.(ß®¸ø8°øß¿×1
+M	java:S106‹"+Replace this use of System.out by a logger.(Òãıÿÿÿÿ8°øß¿×1
+H	java:S106"+Replace this use of System.out by a logger.(¿¾¡Í8°øß¿×1
+H	java:S106‘"+Replace this use of System.out by a logger.(œüóÂ8µøß¿×1
+H	java:S106“"+Replace this use of System.out by a logger.(âù¿Ğ8µøß¿×1
+^	java:S125š"<This block of commented-out lines of code should be removed.(´Êıåúÿÿÿÿ8µøß¿×1
+H	java:S106Ÿ"+Replace this use of System.out by a logger.(§µÏ8µøß¿×1
+Y	java:S125 "<This block of commented-out lines of code should be removed.(¥û¼ü8µøß¿×1
+H	java:S106¥"+Replace this use of System.out by a logger.(öã¦ã8¸øß¿×1
+M	java:S106ª"+Replace this use of System.out by a logger.(¢øç“üÿÿÿÿ8¸øß¿×1
+H	java:S106®"+Replace this use of System.out by a logger.(‚ÈÉ¸8¸øß¿×1
+[
+java:S1854Ô"8Remove this useless assignment to local variable "prop".(ÇÍº¤şÿÿÿÿ8½øß¿×1
+M	java:S106Æ"+Replace this use of System.out by a logger.(«¡¹¨ıÿÿÿÿ8Ãøß¿×1
+T
+java:S2696È"6Make the enclosing method "static" or remove this set.(¸ŞÁ¢8Ãøß¿×1
+Y
+java:S2696É"6Make the enclosing method "static" or remove this set.(çùù”ûÿÿÿÿ8Äøß¿×1
+L
+java:S1481Ô")Remove this unused "prop" local variable.(ÇÍº¤şÿÿÿÿ8Åøß¿×1
+Y
+java:S2696×"6Make the enclosing method "static" or remove this set.(²à‘êÿÿÿÿÿ8Åøß¿×1
+M	java:S106Ø"+Replace this use of System.out by a logger.(Ü“İşùÿÿÿÿ8Åøß¿×1
+Y
+java:S2696Ü"6Make the enclosing method "static" or remove this set.(²€İÂùÿÿÿÿ8Èøß¿×1
+H	java:S106İ"+Replace this use of System.out by a logger.(œæ¡š8Èøß¿×1
+M	java:S106å"+Replace this use of System.out by a logger.(À¢Ú¸úÿÿÿÿ8Êøß¿×1
+Y	java:S125æ"<This block of commented-out lines of code should be removed.(‰úÓ»8Ëøß¿×1
+N
+java:S1874ë"0Remove this use of "setValue"; it is deprecated.(üè¶œ8Íøß¿×1
+Y
+java:S2696ì"6Make the enclosing method "static" or remove this set.(–£ÇÃşÿÿÿÿ8Íøß¿×1
+Z
+java:S1874ğ"7Remove this use of "writeDescriptor"; it is deprecated.(”±©áúÿÿÿÿ8Òøß¿×1
+M	java:S106ñ"+Replace this use of System.out by a logger.(÷¡´úÿÿÿÿ8Óøß¿×1
+M	java:S106ô"+Replace this use of System.out by a logger.(À€Åøÿÿÿÿ8Óøß¿×1
+Y
+java:S2696õ"6Make the enclosing method "static" or remove this set.(ñüŒøÿÿÿÿ8Óøß¿×1
+M	java:S106"+Replace this use of System.out by a logger.(àõ©Êÿÿÿÿÿ8Öøß¿×1
+H	java:S106ˆ"+Replace this use of System.out by a logger.(Úˆ¤Ú8×øß¿×1
+H	java:S106Œ"+Replace this use of System.out by a logger.(Ü¯™È8Øøß¿×1
+^	java:S125"<This block of commented-out lines of code should be removed.(¥¤Œ¶şÿÿÿÿ8Øøß¿×1
+S
+java:S1874’"0Remove this use of "setValue"; it is deprecated.(ñ·—“ıÿÿÿÿ8Øøß¿×1
+Y
+java:S2696”"6Make the enclosing method "static" or remove this set.(–£ÇÃşÿÿÿÿ8İøß¿×1
+Z
+java:S1874˜"7Remove this use of "writeDescriptor"; it is deprecated.(”±©áúÿÿÿÿ8àøß¿×1
+M	java:S106™"+Replace this use of System.out by a logger.(‚Ã¿Ûùÿÿÿÿ8àøß¿×1
+M	java:S106œ"+Replace this use of System.out by a logger.(Ö÷ëÇûÿÿÿÿ8ãøß¿×1
+Y
+java:S2696"6Make the enclosing method "static" or remove this set.(ñüŒøÿÿÿÿ8äøß¿×1
+G	java:S106©"+Replace this use of System.out by a logger.(êÖšF8åøß¿×1
+M	java:S106­"+Replace this use of System.out by a logger.(µ‚ÿİøÿÿÿÿ8åøß¿×1
+M	java:S106¶"+Replace this use of System.out by a logger.(íÕôÉûÿÿÿÿ8åøß¿×1
+M	java:S106¾"+Replace this use of System.out by a logger.(ŞÍà·şÿÿÿÿ8ëøß¿×1
+Y	java:S125Â"<This block of commented-out lines of code should be removed.(Òş8‰ùß¿×1
+m
+java:S1874Ì"JDon't override a deprecated method or explicitly mark it as "@Deprecated".( Í„èüÿÿÿÿ8Šùß¿×1
+[
+java:S1874Í"8Remove this use of "onDescriptorRead"; it is deprecated.(ÆÓ¬İşÿÿÿÿ8Šùß¿×1
+M	java:S106Î"+Replace this use of System.out by a logger.(Š¹‰ùÿÿÿÿ8Šùß¿×1
+M	java:S106Ô"+Replace this use of System.out by a logger.(ƒÛ¢‹şÿÿÿÿ8Šùß¿×1
+Y
+java:S2696Ö"6Make the enclosing method "static" or remove this set.(–£ÇÃşÿÿÿÿ8Šùß¿×1
+M	java:S106Û"+Replace this use of System.out by a logger.(ÎÏÎËüÿÿÿÿ8Šùß¿×1
+G	java:S106Ş"+Replace this use of System.out by a logger.(‚•á8Šùß¿×1
+Y
+java:S2696ß"6Make the enclosing method "static" or remove this set.(ñüŒøÿÿÿÿ8Šùß¿×1
+m
+java:S1874õ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ç×º¯ûÿÿÿÿ8Šùß¿×1
+Z
+java:S1874ö"<Remove this use of "onCharacteristicRead"; it is deprecated.(­¥Äá8Šùß¿×1
+M	java:S106÷"+Replace this use of System.out by a logger.(¦ßêøÿÿÿÿ8Šùß¿×1
+M	java:S106ı"+Replace this use of System.out by a logger.(ÄûÎ²ûÿÿÿÿ8Šùß¿×1
+H	java:S106ÿ"+Replace this use of System.out by a logger.(À¼ÁÆ8šùß¿×1
+M	java:S106ƒ"+Replace this use of System.out by a logger.(ìâ¾Õúÿÿÿÿ8šùß¿×1
+m
+java:S1874Š"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ßãÆÑşÿÿÿÿ8šùß¿×1
+]
+java:S1874‹"?Remove this use of "onCharacteristicChanged"; it is deprecated.(™¸˜‹8šùß¿×1
+M	java:S106Œ"+Replace this use of System.out by a logger.(Ï·‡Ôÿÿÿÿÿ8šùß¿×1
+T
+java:S2696"6Make the enclosing method "static" or remove this set.(‡ÍÒ­8šùß¿×1
+N
+java:S1874"0Remove this use of "getValue"; it is deprecated.(‡ÍÒ­8šùß¿×1
+H	java:S106"+Replace this use of System.out by a logger.(™à¬8šùß¿×1
+T
+java:S2696’"6Make the enclosing method "static" or remove this set.(ÂØ÷€8šùß¿×1
+^	java:S125‘"<This block of commented-out lines of code should be removed.(ëĞÊúÿÿÿÿ8šùß¿×1
+Q
+java:S1144W"/Remove this unused private "errorEvent" method.(‹ü¦´ùÿÿÿÿ8šùß¿×1
+W
+java:S1144]"5Remove this unused private "deviceDiscovered" method.(ŠìÅÖûÿÿÿÿ8šùß¿×1
+S
+java:S1144`"1Remove this unused private "scanComplete" method.(ÌÒ‹—şÿÿÿÿ8šùß¿×1
+Q
+java:S1144f"4Remove this unused private "deviceConnected" method.(³ Ş8šùß¿×1
+S
+java:S1144i"6Remove this unused private "deviceDisonnected" method.(¨ØÙ8šùß¿×1
+N
+java:S1144l"1Remove this unused private "dataReceived" method.(ò÷èÉ8šùß¿×1
+å
+java:S6541»"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 100 to 64, Complexity from 18 to 14, Nesting Level from 9 to 2, Number of Variables from 12 to 6.(Âº¤Ô8šùß¿×1

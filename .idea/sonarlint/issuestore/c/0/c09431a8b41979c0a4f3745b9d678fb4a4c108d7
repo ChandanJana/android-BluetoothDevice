@@ -1,0 +1,29 @@
+
+v
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¨¬v8Ñ‹ÖÆ1
+Q
+java:S1066r"/Merge this if statement with the enclosing one.(²¾æ”úÿÿÿÿ8Ñ‹ÖÆ1
+K
+java:S1604 "(Make this anonymous inner class a lambda(÷»ÉŸıÿÿÿÿ8Ñ‹ÖÆ1
+K
+java:S1604ú"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ8Ñ‹ÖÆ1
+F
+java:S1604ö"(Make this anonymous inner class a lambda(­İ£¢8Ñ‹ÖÆ1
+V
+java:S1874,"4Remove this use of "ListActivity"; it is deprecated.(ıÖµóÿÿÿÿÿ8¿ŒÖÆ1
+8
+java:S3626M"Remove this redundant jump.(ûÁİ…8ÏŒÖÆ1
+Q
+java:S1874:"/Remove this use of "Handler"; it is deprecated.(ŠË»‡ÿÿÿÿÿ8×ŒÖÆ1
+S
+java:S1874z"6Remove this use of "setListAdapter"; it is deprecated.(ø±Ş€8ßŒÖÆ1
+m
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÂÀÀ–úÿÿÿÿ8çŒÖÆ1
+U
+java:S1874—"2Remove this use of "stopLeScan"; it is deprecated.(ò“êÿÿÿÿÿÿ8çŒÖÆ1
+U
+java:S1874¤"2Remove this use of "stopLeScan"; it is deprecated.(ò“êÿÿÿÿÿÿ8çŒÖÆ1
+V
+java:S1874ª"3Remove this use of "startLeScan"; it is deprecated.(´ğ˜÷ÿÿÿÿÿ8çŒÖÆ1
+U
+java:S1874­"2Remove this use of "stopLeScan"; it is deprecated.(ò“êÿÿÿÿÿÿ8ğŒÖÆ1
